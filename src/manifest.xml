@@ -1,4 +1,15 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
   <projectname>MyFirstAccountCustomizationProject</projectname>
   <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">EXPREPORTS</feature>
+      <feature required="false">ADVRECEIVING</feature>
+      <feature required="false">CUSTOMTRANSACTIONS</feature>
+      <feature required="false">RECEIVABLES</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="false">PAYABLES</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+    </features>
+  </dependencies>
 </manifest>
