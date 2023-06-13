@@ -1,2 +1,2 @@
 # MyFirstAccountCustomizationProject
-Test of my first NetSuite account customization project in Wordpress 
+Test of my first NetSuite account customization project in WebStorm
